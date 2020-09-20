@@ -10,7 +10,7 @@ Space Shooter Game with Pygame<br><br>
 
 **Instructions**<br>
 Shoot             - SPACE BAR<br>
-Move ship         - Mouse movements
+Move ship         - Mouse movements<br>
 Go to menu / Quit - ESC
 
 

@@ -8,9 +8,10 @@ Space Shooter Game with Pygame<br><br>
 * Play amidst the stars with the hero and enemy<br>
 * Shoot and Conquer<br><br>
 
-**Instructions**
-SPACE BAR - Shoot <br>
-ESC - Go to menu / Quit
+**Instructions**<br>
+Shoot             - SPACE BAR<br>
+Move ship         - Mouse movements
+Go to menu / Quit - ESC
 
 
 
